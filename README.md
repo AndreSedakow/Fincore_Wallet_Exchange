@@ -1,9 +1,7 @@
-# Nexus Crypto Wallet API
+# Fincore Crypto Wallet API
 
-## API REST de alta performance para gerenciamento de carteiras cripto, desenvolvida como parte do Teste Prático – Desenvolvedor Backend. O Sistema simula componentes de uma **exchange financeira** com foco em:
+## API REST de alta performance para gerenciamento de carteiras cripto. O Sistema simula componentes de uma **exchange financeira** com foco em:
 **Integridade de dados, Consistência contábil e Rastreabilidade de transações**.
-## Base URL
-**API disponível em:** https://nexus-wallet-exchange.onrender.com / https://nexus-wallet-exchange.onrender.com/docs
 
 ## Endpoints da API
 
@@ -224,4 +222,4 @@ Separação entre:
 
 ## Autor
 
-Desenvolvido por **André Sedakow** como parte do desafio técnico proposto pela **Nexus**.
+Desenvolvido por **André Sedakow**
