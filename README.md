@@ -163,8 +163,8 @@ ProcessedWebhook
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/AndreSedakow/Nexus-Wallet-Exchange.git
-cd Nexus-Wallet-Exchange
+git clone https://github.com/AndreSedakow/Fincore_Wallet_Exchange/tree/main
+cd Fincore_Wallet_Exchange
 ```
 
 ### 2. Configurar ambiente
